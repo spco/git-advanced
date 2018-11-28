@@ -48,6 +48,10 @@ to be shared can and should be stored in a version control system.
 >
 > In this lesson we use Git from the Unix Shell.
 > Some previous experience with the shell is expected.
+> It is also expected that attendees have attended the
+> 'Introduction to Version Control' course, or an equivalent.
+> The content of that course is available [here](https://spco.github.io/git-novice)
+> for reference and a refresher.
 > It is recommended that participants use Spectre, but
 > can use their own laptop if they have installed git
 > as required.
